@@ -1,0 +1,13 @@
+package com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+        // התוכנית מתחילחה כאן
+        // Q1
+        // Q2
+        int num = 5;
+        int a = num + 5;
+        // התוכנית נגמרת כאן
+    }
+}
